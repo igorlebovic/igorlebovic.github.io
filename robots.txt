@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://igorlebovic.github.io/sitemap.xml 
+Sitemap: http://www.onlinemarketing.io/sitemap.xml 
