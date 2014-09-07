@@ -5,7 +5,7 @@
 url: http://www.onlinemarketing.io
 title: Online Marketing for Entrepreneurs
 subtitle: Creating something out of nothing.
-author: Igor Lebovic
+author: OM
 simple_search: https://www.google.com/search
 description:
 
@@ -64,13 +64,13 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # ----------------------- #
 
 # Github repositories
-github_user: igorlebovic
+github_user: 
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user: "ilebovic"
+twitter_user: 
 twitter_tweet_button: false
 
 # Google +1
